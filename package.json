@@ -1,0 +1,14 @@
+{
+  "name": "pwr-status",
+  "version": "1.0.0",
+  "description": "A Status Badge Server To Check Whether pwrtelegram API is up or not",
+  "main": "server.js",
+  "dependencies": {
+    "http": "0.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Mohammed Sohail <sohailsameja@gmail.com>",
+  "license": "MIT"
+}
